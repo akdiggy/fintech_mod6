@@ -18,6 +18,6 @@ from pathlib import Path
 
 The following are diagrams that were created in the Jupyter notebook:
 
-![title](images/bokeh-plot.png)
+![Geoviews display](./images/bokeh-plot.png)
 
-![title](images/bokeh-plot-2.png)
+![Widget visualization](./images/bokeh-plot-2.png)

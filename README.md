@@ -20,7 +20,7 @@ from pathlib import Path
 
 The diagrams below were created in the Jupyter notebook.
 
-![title](images/bokeh-plot.png)
+![title](images/bokeh_plot.png)
 
 
-![title](images/bokeh-plot-2.png)
+![title](images/bokeh_plot-2.png)

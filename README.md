@@ -11,13 +11,15 @@ The output of this exercise is a Jupyter notebook that contains analysis of the 
 The following imports need to be included in your notebook:
 
 import pandas as pd
+
 import hvplot.pandas
+
 from pathlib import Path
 
 ## Usage
 
-The following are diagrams that were created in the Jupyter notebook:
+The diagrams below were created in the Jupyter notebook.
 
-![Geoviews display](images/bokeh-plot.png)
+![title](images/bokeh-plot.png)
 
-![Widget visualization](images/bokeh-plot-2.png)
+![title](images/bokeh-plot-2.png)

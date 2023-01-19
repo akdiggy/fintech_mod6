@@ -22,4 +22,5 @@ The diagrams below were created in the Jupyter notebook.
 
 ![title](images/bokeh-plot.png)
 
+
 ![title](images/bokeh-plot-2.png)
